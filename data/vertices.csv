@@ -1,0 +1,60 @@
+~id, shortcode:String, name:String, zone:String, continent:String, faction:String, discovered:Bool, ~label
+1, "LH", "Light's Hope Chapel", "Eastern Plaguelands", "Eastern Kingdoms", "Alliance", True, flightpoint
+2, "CW", "Chillwind Camp", "Western Plaguelands", "Eastern Kingdoms", "Alliance", True, flightpoint
+3, "AP", "Aerie Peak", "The Hinterlands", "Eastern Kingdoms", "Alliance", True, flightpoint
+4, "SS", "Southshore", "Hillsbrad Foothills", "Eastern Kingdoms", "Alliance", True, flightpoint
+5, "RP", "Refuge Pointe", "Arathi Highlands", "Eastern Kingdoms", "Alliance", True, flightpoint
+6, "MH", "Menethil Harbor", "Wetlands", "Eastern Kingdoms", "Alliance", True, flightpoint
+7, "IF", "Ironforge", "Dun Morogh", "Eastern Kingdoms", "Alliance", True, flightpoint
+8, "TH", "Thelsamar", "Loch Modan", "Eastern Kingdoms", "Alliance", True, flightpoint
+9, "TP", "Thorium Point", "Searing Gorge", "Eastern Kingdoms", "Alliance", True, flightpoint
+10, "MV", "Morgan's Vigil", "Burning Steppes", "Eastern Kingdoms", "Alliance", True, flightpoint
+11, "SW", "Stormwind City", "Elwynn Forest", "Eastern Kingdoms", "Alliance", True, flightpoint
+12, "LS", "Lakeshire", "Redridge Mountains", "Eastern Kingdoms", "Alliance", True, flightpoint
+13, "SH", "Sentinel Hill", "Westfall", "Eastern Kingdoms", "Alliance", True, flightpoint
+14, "DW", "Darkshire", "Duskwood", "Eastern Kingdoms", "Alliance", True, flightpoint
+15, "NK", "Nethergarde Keep", "Blasted Lands", "Eastern Kingdoms", "Alliance", True, flightpoint
+16, "BB", "Booty Bay", "Stranglethorn Vale", "Eastern Kingdoms", "Neutral", True, flightpoint
+17, "UC", "The Undercity", "Tirisfal Glades", "Eastern Kingdoms", "Horde", True, flightpoint
+18, "SP", "The Sepulcher", "Silverpine Forest", "Eastern Kingdoms", "Horde", True, flightpoint
+19, "TM", "Tarren Mill", "Hillsbrad Foothills", "Eastern Kingdoms", "Horde", True, flightpoint
+20, "RV", "Raventusk Village", "The Hinterlands", "Eastern Kingdoms", "Horde", True, flightpoint
+21, "HF", "Hammerfall", "Arathi Highlands", "Eastern Kingdoms", "Horde", True, flightpoint
+22, "KG", "Kargath", "Badlands", "Eastern Kingdoms", "Horde", True, flightpoint
+23, "FC", "Flame Crest", "Burning Steppes", "Eastern Kingdoms", "Horde", True, flightpoint
+24, "ST", "Stonard", "Swamp of Sorrows", "Eastern Kingdoms", "Horde", True, flightpoint
+25, "GG", "Grom'gol", "Stranglethorn Vale", "Eastern Kingdoms", "Horde", True, flightpoint
+26, "QD", "Quel'danas", "Silvermoon City", "Eastern Kingdoms", "Horde", True, flightpoint
+27, "DN", "Rut'theran Village", "Darnassus", "Kalimdor", "Alliance", True, flightpoint
+28, "AU", "Auberdine", "Darkshore", "Kalimdor", "Alliance", True, flightpoint
+29, "MG", "Nighthaven", "Moonglade", "Kalimdor", "Alliance", True, flightpoint
+30, "TG", "Talonbranch Glade", "Felwood", "Kalimdor", "Alliance", True, flightpoint
+31, "EL", "Everlook", "Winterspring", "Kalimdor", "Alliance", True, flightpoint
+32, "SP", "Stonetalon Peak", "Stoletalon Mountains", "Kalimdor", "Alliance", True, flightpoint
+33, "AS", "Astranaar", "Ashenvale", "Kalimdor", "Alliance", True, flightpoint
+34, "NP", "Nijel's Point", "Desolace", "Kalimdor", "Alliance", True, flightpoint
+35, "TR", "Talrendis Point", "Azshara", "Kalimdor", "Alliance", True, flightpoint
+36, "RA", "Ratchet", "The Barrens", "Kalimdor", "Alliance", True, flightpoint
+37, "FM", "Feathermoon Stronghold", "Feralas", "Kalimdor", "Alliance", True, flightpoint
+38, "TN", "Thalanaar", "Thousand Needles", "Kalimdor", "Alliance", True, flightpoint
+39, "TI", "Theramore Isle", "Dustwallow Marsh", "Kalimdor", "Alliance", True, flightpoint
+40, "CH", "Cenarion Hold", "Silithus", "Kalimdor", "Alliance", True, flightpoint
+41, "MR", "Marshal's Refuge", "Un'goro Crater", "Kalimdor", "Alliance", True, flightpoint
+42, "GZ", "Gadgetzan", "Tanaris", "Kalimdor", "Alliance", True, flightpoint
+43, "MG", "Nighthaven", "Moonglade", "Kalimdor", "Horde", True, flightpoint
+44, "EL", "Everlook", "Winterspring", "Kalimdor", "Horde", True, flightpoint
+45, "BV", "Bloodvenom Post", "Felwood", "Kalimdor", "Horde", True, flightpoint
+46, "ZO", "Zoram'gar Outpost", "Ashenvale", "Kalimdor", "Horde", True, flightpoint
+47, "ST", "Splintertree Post", "Ashenvale", "Kalimdor", "Horde", True, flightpoint
+48, "VM", "Valormok", "Azshara", "Kalimdor", "Horde", True, flightpoint
+49, "OG", "Orgrimmar", "Durotar", "Kalimdor", "Horde", True, flightpoint
+50, "SR", "Sun Rock Retreat", "Stonetalon Mountains", "Kalimdor", "Horde", True, flightpoint
+51, "SP", "Shadowprey Village", "Desolace", "Kalimdor", "Horde", True, flightpoint
+52, "TB", "Thunder Bluff", "Mulgore", "Kalimdor", "Horde", True, flightpoint
+53, "XR", "The Crossroads", "The Barrens", "Kalimdor", "Horde", True, flightpoint
+54, "RA", "Ratchet", "The Barrens", "Kalimdor", "Horde", True, flightpoint
+55, "CT", "Camp Taurajo", "The Barrens", "Kalimdor", "Horde", True, flightpoint
+56, "BW", "Brackenwall Village", "Dustwallow Marsh", "Kalimdor", "Horde", True, flightpoint
+57, "CM", "Camp Mojache", "Feralas", "Kalimdor", "Horde", True, flightpoint
+58, "FW", "Freewind Post", "Thousand Needles", "Kalimdor", "Horde", True, flightpoint
+59, "MR", "Marshall's Refuge", "Un'goro Crater", "Kalimdor", "Horde", True, flightpoint

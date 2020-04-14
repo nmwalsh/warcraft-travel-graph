@@ -8,25 +8,3 @@
 27, "DN", "Rut'theran Village", "Darnassus", "Kalimdor", "Alliance", dock
 6, "MH", "Menethil Harbor", "Wetlands", "Eastern Kingdoms", "Alliance", dock
 39, "TI", "Theramore Isle", "Dustwallow Marsh", "Kalimdor", "Alliance", dock
-
-
-interesting that zeppelin trips have different durations in each direction
-Horde:
-	org>uc 1:40
-	uc>org 1:30
-
-	org>gromgol 1:15
-	gromgol>org 1:30
-
-	uc>gromgol 1:40
-	gromgol>uc 1:42
-
-alliance:
-	rut'theran>auberdine 1:40
-	aubderine>rut'terhan 1:30
-
-	auberdine>menethil 1:15
-	menethil>auberdine 1:30
-
-	menethil>theramore 1:40
-	theramore>menethil 1:42
